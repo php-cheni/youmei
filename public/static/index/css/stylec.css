@@ -1,0 +1,15 @@
+﻿﻿.header_aBlock.cur {color:#29a761;}
+.c_ct .loc {white-space: nowrap;height: 38px;overflow: hidden;}
+.n_ll,.v_li,.np_ll,.f_li,.Seve-top-right,.Cate-left-img,.care-list ul li,.shipping-img,.bg-imga,.report-bolck ul li .report-img,.in-img,.r_icb li .img,.Talent-dnf .Talent-def-right,.Footba-team ul li,.feed_img {position: relative;overflow: hidden;}
+.n_ll img,.v_li img,.np_ll img,.np_ll img,.f_li img,.Seve-top-right img,.Cate-left-img img,.care-list ul li img,.shipping-img img,.bg-imga img,.in-img img,.r_icb li .img img,.Talent-dnf .Talent-def-right img,.Footba-team ul li img {width:100%;}
+.header_content,.header_aContent,.header_ulBlock{-webkit-transition:all .6s ease-in-out;-ms-transition:all .6s ease-in-out;-moz-transition:all .6s ease-in-out;-o-transition:all .6s ease-in-out;transition:all .6s ease-in-out;}
+.bull-text {}
+.bull-text.hover {}
+.n_list li:hover .n_ll:after,.v_list li:hover .v_li:after,.np_list li:hover .np_ll:after,.f_list li:hover .f_li:after,.Seve-top-right:hover:after,.Cate-left-img:hover:after,.care-list ul li:hover:after,.shipping-img:hover:after,.bg-imga:hover:after,.report-bolck ul li .report-img:hover:after,.r_icb li:hover .img:after,.Talent-dnf .Talent-def-right:hover:after,.i_list:hover:after,.Footba-team ul li:hover:after,.yewu_img:hover:after,.culi-contet li:hover:after { width: 150px; left: 600px; -webkit-transition: 1.2s;transition: 1.2s }
+.index-top-left ul li a:after {content:"";display: block;position: absolute; left: -200px; top: 0px; width: 150px; height: 100%; background-image: -webkit-linear-gradient(0deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0)) ; overflow: hidden; -webkit-transform: skewx(-25deg); -webkit-transition: 0s; }
+.i_list .swiper-container:hover:after,.in-img:hover:after,.index-top-left ul li a:hover:after { width: 150px; left: 1200px; -webkit-transition: 1.6s;transition: 1.6s }
+.header_logo {position: relative;height:90px}
+.header_logo img {height: 100%;}
+.header_content.cur {background: #fff;}
+.header_content.cur .header_aContent {padding-top:8px;}
+.header_content.cur .header_ulBlock {padding-top:0px;}

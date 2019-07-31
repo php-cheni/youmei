@@ -1,0 +1,680 @@
+﻿﻿.wID1024 body{
+	min-width: 1000px;
+}
+.wID1024 .bodyer{
+    width: 100%;
+    min-width: 1000px;
+}
+.wID1024 .header_contentBlock{
+    width: 1000px;
+    min-width: 1000px;
+}
+.wID1024 .banner_iti{
+	width: 1000px;
+}
+.wID1024 .banner_it .cont{
+	width: 810px;
+}
+.wID1024 .banner_it .title{
+	width: 140px;
+}
+.wID1024 .index_newBlock{
+	width: 1000px;
+}
+.wID1024 .index_nti{
+	width: 400px;
+	height: 235px;
+}
+.wID1024 .index_ntr{
+	width: 570px;
+}
+.wID1024 .index_nt{
+	height: 235px;
+}
+.wID1024 .index_ntr .date{
+	margin-top: 0px;
+}
+.wID1024 .index_ntr .line{
+	margin: 8px 0;
+}
+.wID1024 .index_ntr .cont{
+	margin-top: 4px;
+}
+.wID1024 .index_ntr .more{
+	margin-top: 24px;
+}
+.wID1024 .index_nb{
+	width: 1000px;
+	height: 175px;
+}
+.wID1024 .index_nb .in{
+	width: 313px;
+}
+.wID1024 .index_nb .inl{
+	width: 220px;
+}
+.wID1024 .home_showBlock{
+	width: 1000px;
+}
+.wID1024 .home_contentBlock{
+	width: 1000px;
+}
+.wID1024 .home_imgBlock{
+	width: 250px;
+}
+.wID1024 .Footer_contentBlock{
+	width: 1000px;
+}
+.wID1024 .Footer_rightBlock{
+	width: 300px;
+}
+.wID1024 .common_block,.wID1024 .common_content{
+	width: 1000px;
+}
+.wID1024 .about_content{
+	width: 78%;
+}
+.wID1024 .core_line.lm{
+	margin: 25px auto;
+}
+.wID1024 .intro_tr{
+	width: 350px;
+}
+.wID1024 .intro_tr img{
+	width: 100%;
+}
+.wID1024 .core_ct{
+	width: 324px;
+	padding: 18px 20px 0;
+}
+.wID1024 .c3 .core_ci{
+	width: 416px;
+}
+.wID1024 .core_line{
+	margin: 16px 0;
+}
+.wID1024 .c4 .core_ci{
+	width: 364px;
+}
+.wID1024 .c4 .core_ct{
+	width: 376px;
+	padding: 18px 20px 0;
+}
+.wID1024 .c5 .core_ci{
+	width: 416px;
+}
+.wID1024 .devel_data{
+	width: 120px;
+}
+.wID1024 .devel_data h2{
+	font-size: 22px;
+}
+.wID1024 .devel_ont{
+	width: 618px;
+}
+.wID1024 .devel_int p img{
+	width: 100%;
+	margin-left: auto;
+}
+.wID1024 .honor_txt{
+	width: 549px;
+}
+.wID1024 .idea_ct{
+	width: 390px;
+	padding: 12px 10px 0;
+}
+.wID1024 .idea_ct .t2{
+	font-size: 20px;
+}
+.wID1024 .idea_ct .cont{
+	line-height: 20px;
+    margin-top: 0px;
+}
+.wID1024 .idea_ci{
+	width: 370px;
+}
+.wID1024 .c2 .idea_ci{
+	width: 410px;
+}
+.wID1024 .c2 .idea_ct{
+	width: 350px;
+}
+.wID1024 .idea_cin.c2{
+	height: 284px;
+}
+.wID1024 .idea_cin.c3{
+	height: 386px;
+}
+.wID1024 .c3 .idea_ct{
+	width: 720px;
+    height: auto;
+    background: none;
+}
+.wID1024 .at_list li{
+	width: 246px;
+}
+.wID1024 .at_list li .tt{
+	overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+.wID1024 .v_list{
+	width: 780px;
+}
+.wID1024 .v_list li{
+	width: 250px;
+    height: 220px;
+}
+.wID1024 .v_li{
+	width: 250px;
+    height: 167px;
+}
+.wID1024 .c_cont{
+	width: 780px;
+}
+.wID1024 .f_list{
+	width: 830px;
+}
+.wID1024 .f_list li{
+	width: 167px;
+	height: 289px;
+}
+.wID1024 .f_li{
+	width: 163px;
+	height: 236px;
+}
+.wID1024 .ser_id{
+	height: 402px;
+}
+.wID1024 .ser_id .zonzhi .fr{
+	width: 586px;
+}
+.wID1024 .ser_id .zonzhi .fr img{
+	width: 100%;
+}
+.wID1024 .sermodel_all{
+	height: 360px;
+}
+.wID1024 .model_img{
+	width: 440px;
+}
+.wID1024 .model_img img{
+	width: 100%;
+}
+.wID1024 .model_txt{
+	position: absolute;
+    right: 0;
+    width: 365px;
+    margin-top: -2px;
+}
+.wID1024 .modtxt{
+	padding: 4px 0 4px 65px;
+}
+.wID1024 .C_item .relation_yuan{
+	background: url(../images/relationship_yuan.png) no-repeat;
+	background-size: contain;
+}
+.wID1024 .C_item .yuantxt p{
+	margin-top: 2px;
+}
+.wID1024 .C_item .yuantxt1{
+	width: 227px;
+    right: 126px;
+}
+.wID1024 .C_item .yuantxt2{
+	width: 155px;
+    right: -26px;
+    top: 146px;
+}
+.wID1024 .C_item .yuantxt3{
+	width: 180px;
+    right: -30px;
+    bottom: 224px;
+}
+.wID1024 .C_item .yuantxt4{
+	width: 320px;
+    right: 230px;
+    bottom: 145px;
+}
+.wID1024 .C_item .yuantxt5{
+	width: 186px;
+    left: -35px;
+    bottom: 282px;
+}
+.wID1024 .C_item .yuantxt6{
+	width: 155px;
+    left: -30px;
+    top: 147px;
+}
+.wID1024 .line_left{
+	width: 780px;
+}
+.wID1024 .city_list{
+	margin-top: -27px;
+    margin-bottom: 20px;
+}
+.wID1024 .line_phone{
+	left: 161px;
+    right: auto;
+    top: 41px;
+}
+.wID1024 .feed_right{
+	width: 516px;
+}
+.wID1024 .feed_right .input_right{
+	float: left;
+}
+.wID1024 .all_in .submit{
+	width: 432px;
+}
+.wID1024 .input_left ul li{
+	width: 430px;
+}
+.wID1024 .input_left input{
+	width: 370px;
+}
+.wID1024 .n_ct{
+	width: 100%;
+    height: 184px;
+    position: relative;
+    background: #fff;
+    margin-top: 15px;
+}
+.wID1024 .n_ctl {
+    width: 290px;
+    height: 184px;
+    float: left;
+}
+.wID1024 .n_ctr {
+    width: 450px;
+    height: 149px;
+    padding: 18px 20px;
+    float: left;
+    position: relative;
+}
+.wID1024 .n_ctr .date {
+    color: #29a761;
+    font-size: 18px;
+}
+.wID1024 .n_ctr .title {
+    color: #333;
+    font-size: 17px;
+    margin-top: 1px;
+}
+.wID1024 .n_ctr .cont {
+    line-height: 22px;
+    color: #595757;
+    text-align: justify;
+    margin-top: 6px;
+    text-indent: 2em;
+}
+.wID1024 .n_ctr .more {
+    color: #666;
+    position: absolute;
+    right: 20px;
+    bottom: 12px;
+}
+.wID1024 .n_lc {
+    width: 590px !important;
+}
+.wID1024 .Right-main {
+    width: 780px;
+}
+.wID1024 .Seve-tc .cr {
+    width: 510px;
+    float: right;
+}
+.wID1024 .Seve-tc .cl {
+    width: 190px;
+    height: 162px;
+    padding: 20px;
+    background: url(../images/s_1.jpg) no-repeat left center;
+    float: left;
+}
+.wID1024 .Seve-tc .cl .tt {
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.wID1024 .Seve-tc .cl .tc {
+    color: #fefefe;
+    text-align: justify;
+    line-height: 24px;
+    margin-top: 15px;
+    opacity: .5;
+    filter: Alpha(opacity=50);
+}
+.wID1024 .Seve-tc .cl .ts {
+    height: 44px;
+    position: relative;
+    margin-top: 10px;
+}
+.wID1024 .Seve-tc .cl .wx {
+    width: 36px;
+    height: 36px;
+    display: block;
+    background: url(../images/s_3.png) no-repeat left center;
+    float: left;
+    margin-right: 20px;
+    background-size: cover;
+}
+.wID1024 .Seve-tc .cl .lk {
+    width: 36px;
+    height: 36px;
+    display: block;
+    background: url(../images/s_4.png) no-repeat left center;
+    float: left;
+    background-size: cover;
+}
+.wID1024 .shipping-black ul li {
+    width: 156px;
+    height: 41px;
+    position: relative;
+    float: left;
+}
+.wID1024 .city-block ul li {
+    width: auto;
+    height: 24px;
+    float: left;
+    padding: 0 40px 0 16px;
+    background: url(../images/b3.jpg) no-repeat right;
+}
+.wID1024 .pro-main ul li {
+    width: 242px;
+    height: 265px;
+    float: left;
+    margin: 25px 25px 0 0;
+    background: #fff;
+}
+.wID1024 .ComBlock .pro-main ul li {
+    height: 248px;
+}
+.wID1024 .yewu_img {
+    position: relative;
+    width: 242px;
+    height: 188px;
+    overflow: hidden;
+}
+.wID1024 .pro-main ul li .ai .txt p {
+    width: 220px;
+    color: #666;
+    font-size: 14px;
+    line-height: 26px;
+    text-align: left;
+    padding: 0 15px;
+    height: auto;
+    text-align: justify;
+}
+.wID1024 .Cate-left-img {
+    width: 330px;
+    height: 246px;
+}
+.wID1024 .Cate-right-text {
+    width: 378px;
+    height: auto;
+    position: relative;
+}
+.wID1024 .Seve-text-main p img{
+	width: 100%;
+}
+.wID1024 .pens-cont li {
+    width: 50%;
+    height: 226px;
+    float: left;
+}
+.wID1024 .ComBlock .pro-main ul li .ai {
+    bottom: 47px;
+}
+.wID1024 #zuigao,.wID1024  #zuidi,.wID1024  #chenjiao {
+    margin-left: 0px;
+}
+.wID1024 .post_Block {
+    width: 365px;
+}
+.wID1024 .post_Block1 {
+    width: 365px;
+}
+.wID1024 .block-post .post-1 {
+    width: 365px;
+}
+.wID1024 .bull_data .bullt_Block {
+    width: 780px;
+}
+.wID1024 .bull_data .intro_showBlock {
+    width: 700px;
+}
+.wID1024 .Reports,.wID1024 .results {
+    width: 780px;
+    position: relative;
+    padding: 27px 0;
+    overflow: hidden;
+}
+.wID1024 .report-bolck {
+    width: 110%;
+    position: relative;
+    border-bottom: solid 1px #dcdcdc;
+}
+.wID1024 .report-bolck ul {
+    position: relative;
+    width: auto;
+}
+.wID1024 .report-bolck ul li {
+    width: 170px;
+    height: auto;
+    float: left;
+    margin-right: 32px;
+    margin-bottom: 23px;
+    margin-top: 6px;
+}
+.wID1024 .report-bolck ul li .report-img {
+    display: block;
+    width: 170px;
+    height: 231px;
+    border: solid 1px #dcdcdc;
+    overflow: hidden;
+}
+.wID1024 .auth_navBlock {
+    position: relative;
+    width: 780px;
+}
+.wID1024 .auth_aBlock {
+    width: 258px;
+}
+.wID1024 .in-mation .in-mation-left {
+    width: 464px;
+    position: relative;
+    float: left;
+}
+.wID1024 .in-mation .in-mation-left ul li {
+    width: 220px;
+    height: 42px;
+    border: solid 1px #cccccc;
+    float: left;
+    margin: 0 10px 10px 0px;
+}
+.wID1024 .in-mation .in-mation-left ul li input.inp {
+    width: 146px;
+    height: 30px;
+    margin: 6px 0 6px 6px;
+    border: none;
+    background: url();
+    outline: none;
+    color: #666;
+    font-size: 14px;
+}
+.wID1024 .in-mation .in-mation-left ul li input.int {
+    width: 116px;
+    height: 30px;
+    margin: 6px 0 6px 6px;
+    border: none;
+    background: url();
+    outline: none;
+    color: #666;
+    font-size: 14px;
+}
+.wID1024 .atext_Block {
+    position: relative;
+    width: 422px;
+    height: 130px;
+    border: solid 1px #cccccc;
+    padding: 11px 15px;
+}
+.wID1024 .atext_Block .atext {
+    width: 422px;
+    height: 130px;
+    position: relative;
+    background: url();
+    border: none;
+    outline: none;
+    font-size: 14px;
+    color: #999999;
+}
+.wID1024 .insubmit {
+    width: 446px;
+    position: relative;
+    margin-top: 35px;
+}
+.wID1024 .in-mation-right {
+    width: 292px;
+    float: right;
+    position: relative;
+    overflow: hidden;
+}
+.wID1024 .in-mation-right img{
+    width: 100%;
+}
+.wID1024 .in-mation-right .in {
+    height: auto;
+}
+.wID1024 .endow-list dd .layer {
+    width: 348px;
+}
+.wID1024 .endow-list dd .yiliao {
+    width: 736px;
+}
+.wID1024 .n_list li.coa_xiezhe {
+    width: auto;
+    height: 321px;
+    overflow: hidden;
+    padding: 20px;
+    position: relative;
+    background: #fff;
+    margin-top: 30px;
+}
+.wID1024 .n_ll.l2 {
+    width: 410px;
+    height: 321px;
+}
+.wID1024 .n_lr.r2 {
+    width: 310px;
+    margin-left: 20px;
+    padding-top: 15px;
+    position: relative;
+    height: 275px;
+    overflow: hidden;
+}
+.wID1024 .n_lr {
+    width: 458px;
+    float: left;
+    margin-left: 18px;
+    padding-top: 20px;
+}
+.wID1024 .n_lrt .title {
+    width: 340px;
+}
+.wID1024 .n_cont p {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+.wID1024 .n_ll {
+    width: 263px;
+    height: 146px;
+    float: left;
+    overflow: hidden;
+}
+.wID1024 .hono_aImg ul li {
+    width: 186px;
+    float: left;
+    position: relative;
+    margin: 0 12px 12px 0;
+}
+.wID1024 .Talent-dnf .Talent-def-left {
+    width: 380px;
+    height: 230px;
+    overflow: hidden;
+    float: left;
+}
+.wID1024 .Talent-dnf .Talent-def-right {
+    width: 380px;
+    height: 171px;
+    overflow: hidden;
+    float: right;
+    margin-top: 18px;
+}
+.wID1024 .Seve-inde {
+    width: 100%;
+}
+.wID1024 .Blist_left {
+    width: 370px;
+    position: relative;
+}
+.wID1024 .Blist_right {
+    position: relative;
+    width: 370px;
+}
+.wID1024 .Social_tem {
+    width: 580px;
+}
+.wID1024 .i_list {
+    width: 870px;
+    position: relative;
+    margin-top: 30px;
+}
+.wID1024 .i_list li {
+    width: 376px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.wID1024 .i_li {
+    width: 100%;
+    height: 220px;
+}
+.wID1024 .i_li .swiper-container {
+    width: 100%;
+    height: 220px;
+}
+.wID1024 .i_lt .title {
+    width: 350px;
+}
+.wID1024 .swiper-container.new {
+    width: 500px;
+    margin: 0 auto;
+    height: 100%;
+    max-height: 420px;
+}
+.wID1024 .n_lc .rt {
+    font-size: 20px;
+    color: #333;
+    width: 423px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.wID1024 .pop .in {
+    width: 1000px;
+    height: 80%;
+    position: absolute;
+    top: 14%;
+    left: 50%;
+    margin-left: -500px;
+    z-index: 999;
+}
+
+
+.wID1024 
